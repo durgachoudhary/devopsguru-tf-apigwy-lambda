@@ -27,6 +27,16 @@ terraform init & Terraform apply
 
 ## Test your URL by running manually.
 
-## Modiy web-load.py with actual URL , and run script this will generate parallel load on API GWY & Lambda.
+## Modify web-load.py with actual URL , and run script this will generate parallel load on API GWY & Lambda.
 
-## 
+Able to see 200 Successfull Response , as below:
+
+Iterating sending requests...+++++
+<Response [200]> <h2>This is our Lambda...API Gateway...and...Terraform lab.</h2> 200
+
+## Now go to AWS Console and Update Lambda Code for firstFunction with update_lambda & deploy the code.
+
+This will generate failure response with 503 Error Response and web-load.py is generating parallel call to URL.
+
+Let it be Run for 10 to 15 Mins.
+
