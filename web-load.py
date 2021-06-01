@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 START_TIME = default_timer()
 
 def request(session, i):
-    url = "https://w9997v6d1m.execute-api.us-east-1.amazonaws.com/test"
+    url = "<REPLACE THIS URL with Terraform OUTPUT>"
     with session.get(url) as response:
         data = response.text
 
