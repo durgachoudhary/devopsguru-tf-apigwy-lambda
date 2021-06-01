@@ -45,7 +45,8 @@ Let it be Run for 10 to 15 Mins.
 ## Insight able to catch a High Severity Alarm that Affect API-Gateway & Lambda
 <img width="765" alt="DevopsGuru_Insight_Page" src="https://user-images.githubusercontent.com/23376953/120282904-3c942b80-c2d8-11eb-886d-2d46f26d5f12.PNG">
 
-## 
+## Aggregated metrics - Metrics analysised to represent start time of anamoly
+<img width="754" alt="devopsguru_agg_view" src="https://user-images.githubusercontent.com/23376953/120283653-0905d100-c2d9-11eb-86ef-c1f2db7d6f6d.PNG">
 
 
 
