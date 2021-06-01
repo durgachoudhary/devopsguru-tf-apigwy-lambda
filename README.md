@@ -48,5 +48,6 @@ Let it be Run for 10 to 15 Mins.
 ## Aggregated metrics - Metrics analysised to represent start time of anamoly
 <img width="754" alt="devopsguru_agg_view" src="https://user-images.githubusercontent.com/23376953/120283653-0905d100-c2d9-11eb-86ef-c1f2db7d6f6d.PNG">
 
-
+## Relevant Event - When Insight start and if nay changes that cause this Issue , as we have updated Lambda Code
+<img width="768" alt="devops_guru_insight_start" src="https://user-images.githubusercontent.com/23376953/120283895-4ff3c680-c2d9-11eb-9a32-93d002303b76.PNG">
 
