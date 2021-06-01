@@ -40,3 +40,12 @@ This will generate failure response with 503 Error Response and web-load.py is g
 
 Let it be Run for 10 to 15 Mins.
 
+### Visit AWS Console and Open AWS DevOps Guru, assuming its already enable for all the account Resource.
+
+## Insight able to catch a High Severity Alarm that Affect API-Gateway & Lambda
+<img width="765" alt="DevopsGuru_Insight_Page" src="https://user-images.githubusercontent.com/23376953/120282904-3c942b80-c2d8-11eb-886d-2d46f26d5f12.PNG">
+
+## 
+
+
+
