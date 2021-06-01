@@ -19,7 +19,7 @@ aws s3 cp mylab.zip s3://tfe-devopsguru-bucket --profile adfs
 
 Go to your Clone Repository & run 
 
-### Note: Modify Youir Bucket Name in Main.tf
+### Note: Modify Your Bucket Name in Main.tf
 
 terraform init & Terraform apply
 
