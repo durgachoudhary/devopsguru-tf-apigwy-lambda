@@ -32,7 +32,7 @@ terraform init & Terraform apply
 Able to see 200 Successfull Response , as below:
 
 Iterating sending requests...+++++
-<Response [200]> <h2>This is our Lambda...API Gateway...and...Terraform lab.</h2> 200
+Response [200] This is our Lambda...API Gateway...and...Terraform lab.
 
 ## Now go to AWS Console and Update Lambda Code for firstFunction with update_lambda & deploy the code.
 
