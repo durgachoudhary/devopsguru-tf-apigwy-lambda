@@ -24,3 +24,9 @@ Go to your Clone Repository & run
 terraform init & Terraform apply
 
 ### Copy the URL from the Outputs of Terrafrom apply
+
+## Test your URL by running manually.
+
+## Modiy web-load.py with actual URL , and run script this will generate parallel load on API GWY & Lambda.
+
+## 
