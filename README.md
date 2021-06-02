@@ -9,7 +9,7 @@
 
 7z a -r mylab.zip *  
 
-## Create S3 Bucket and Uplead mylab.zip 
+## Create S3 Bucket and Upload mylab.zip 
 
 aws s3api create-bucket --bucket=tfe-devopsguru-bucket --region=us-east-1 --profile=adfs
 
@@ -48,7 +48,7 @@ Let it be Run for 10 to 15 Mins.
 ## Aggregated metrics - Metrics analysised to represent start time of anamoly
 <img width="754" alt="devopsguru_agg_view" src="https://user-images.githubusercontent.com/23376953/120283653-0905d100-c2d9-11eb-86ef-c1f2db7d6f6d.PNG">
 
-## Relevant Event - When Insight start and if nay changes that cause this Issue , as we have updated Lambda Code
+## Relevant Event - Screenshot highlight Insight start and if there is any change that become the root cause of this Issue. 
 <img width="768" alt="devops_guru_insight_start" src="https://user-images.githubusercontent.com/23376953/120283895-4ff3c680-c2d9-11eb-9a32-93d002303b76.PNG">
 
 <img width="758" alt="innsight_start" src="https://user-images.githubusercontent.com/23376953/120284124-8f221780-c2d9-11eb-99cb-5be04d3e46d9.PNG">
